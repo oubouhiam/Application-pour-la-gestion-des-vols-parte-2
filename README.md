@@ -6,7 +6,7 @@ Importer la base de données /database/gestion_reservations.sql.
 ---
 Rendez-vous dans le dossier /htdocs(xampp)-/www(wampp) puis coller le fichier telecharger.
 ---
-Saisir l'adresse suivante dans la barre d'adresse de votre navigateur : http://localhost/Gestion-de-vole-parte-2/volparte2/view/identification.php
+Saisir l'adresse suivante dans la barre d'adresse de votre navigateur : http://localhost/Application-pour-la-gestion-des-vols-parte-2volparte2/view/identification.php
 ---
 pour admin:
 ---
